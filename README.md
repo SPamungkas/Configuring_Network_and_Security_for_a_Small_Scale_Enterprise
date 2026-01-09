@@ -69,7 +69,7 @@ All workstations (PCs and Laptops) were configured with static IP addresses corr
   <img width="500" height="243" alt="image" src="https://github.com/user-attachments/assets/9f61d8ec-2446-476e-8f64-9255a9dad4cc" />
   <br>
 </p>
-<br>
+
 - Inter Network Connectivity: Ping from PC-01 to Laptop-01 — Result: Success.
 <p align="center">
   <img width="500" height="235" alt="image" src="https://github.com/user-attachments/assets/72b0c824-7625-44a9-aaf3-44b28ab9f7ad" />
